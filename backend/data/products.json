@@ -1,0 +1,152 @@
+[
+    {
+        "p_name": "Full Pair Man's Kurta",
+        "p_price": 2499,
+        "p_description": "This is Gujrat Tendential.",
+        "category": "men",
+        "p_image": "69286b224b5a0_Screenshot_27-11-2025_202832_www.bing.com.jpeg",
+        "created_at": "2025-11-27 15:15:46",
+        "updated_at": "2025-11-27 15:15:46",
+        "_id": "69286b224f30c"
+    },
+    {
+        "p_name": "Choron Dress For Men",
+        "p_price": 3999,
+        "p_description": "This is Choron Dress For Men.",
+        "category": "men",
+        "p_image": "69286d458b4b6_chorno-drress-for-men.jpg",
+        "created_at": "2025-11-27 15:24:53",
+        "updated_at": "2025-11-27 15:24:53",
+        "_id": "69286d458cd2c"
+    },
+    {
+        "p_name": "Koti-Kurta For Men",
+        "p_price": 1499,
+        "p_description": "This is Koti with Kurata Free.",
+        "category": "men",
+        "p_image": "69286d9691a1c_Screenshot_27-11-2025_202923_www.bing.com.jpeg",
+        "created_at": "2025-11-27 15:26:14",
+        "updated_at": "2025-11-27 15:26:14",
+        "_id": "69286d9693757"
+    },
+    {
+        "p_name": "Whaite Kurata",
+        "p_price": 599,
+        "p_description": "This is Butifull.",
+        "category": "men",
+        "p_image": "69286dd72540d_Screenshot_27-11-2025_203031_www.bing.com.jpeg",
+        "created_at": "2025-11-27 15:27:19",
+        "updated_at": "2025-11-27 15:27:19",
+        "_id": "69286dd726f6e"
+    },
+    {
+        "p_name": "Chaniya Choli",
+        "p_price": 5999,
+        "p_description": "This like Beautiful.",
+        "category": "women",
+        "p_image": "69286e2337853_Screenshot_27-11-2025_203130_www.bing.com.jpeg",
+        "created_at": "2025-11-27 15:28:35",
+        "updated_at": "2025-11-27 15:28:35",
+        "_id": "69286e2339230"
+    },
+    {
+        "p_name": "Sadi",
+        "p_price": 1599,
+        "p_description": "This is best For Women.",
+        "category": "women",
+        "p_image": "69286e66d520e_Screenshot_27-11-2025_203421_www.bing.com.jpeg",
+        "created_at": "2025-11-27 15:29:42",
+        "updated_at": "2025-11-27 15:29:42",
+        "_id": "69286e66d6d39"
+    },
+    {
+        "p_name": "Chaniya Choli",
+        "p_price": 2999,
+        "p_description": "Best Combinations.",
+        "category": "women",
+        "p_image": "69286eb3d997c_Screenshot_27-11-2025_203534_www.bing.com.jpeg",
+        "created_at": "2025-11-27 15:30:59",
+        "updated_at": "2025-11-27 15:30:59",
+        "_id": "69286eb3dbce5"
+    },
+    {
+        "p_name": "Style Kurti",
+        "p_price": 799,
+        "p_description": "This is new style.",
+        "category": "women",
+        "p_image": "69286ef4b26e8_Screenshot_27-11-2025_204111_www.bing.com.jpeg",
+        "created_at": "2025-11-27 15:32:04",
+        "updated_at": "2025-11-27 15:32:04",
+        "_id": "69286ef4b3e06"
+    },
+    {
+        "p_name": "Kurti",
+        "p_price": 599,
+        "p_description": "G.O.A.T. Style Kurti.",
+        "category": "women",
+        "p_image": "69286f3412ae9_Screenshot_27-11-2025_204154_www.bing.com.jpeg",
+        "created_at": "2025-11-27 15:33:08",
+        "updated_at": "2025-11-27 15:33:08",
+        "_id": "69286f34140cf"
+    },
+    {
+        "p_name": "Kediyu",
+        "p_price": 999,
+        "p_description": "This is Kediyu",
+        "category": "kids",
+        "p_image": "69286f7a5fefc_Screenshot_27-11-2025_203713_www.bing.com.jpeg",
+        "created_at": "2025-11-27 15:34:18",
+        "updated_at": "2025-11-27 15:34:18",
+        "_id": "69286f7a61643"
+    },
+    {
+        "p_name": "White Kurti",
+        "p_price": 699,
+        "p_description": "White Kurti For Kids",
+        "category": "kids",
+        "p_image": "69286fb86209c_Screenshot_27-11-2025_203830_www.bing.com.jpeg",
+        "created_at": "2025-11-27 15:35:20",
+        "updated_at": "2025-11-27 15:35:20",
+        "_id": "69286fb863ade"
+    },
+    {
+        "p_name": "Kediyu",
+        "p_price": 799,
+        "p_description": "This best Style.",
+        "category": "kids",
+        "p_image": "69286feb425a8_Screenshot_27-11-2025_203915_www.bing.com.jpeg",
+        "created_at": "2025-11-27 15:36:11",
+        "updated_at": "2025-11-27 15:36:11",
+        "_id": "69286feb4400c"
+    },
+    {
+        "p_name": "asdfgh",
+        "p_price": 100,
+        "p_description": "asdfghj",
+        "category": "kids",
+        "p_image": "69292c446fabf_SWAS_3647=======.jpg",
+        "created_at": "2025-11-28 04:59:48",
+        "updated_at": "2025-11-28 04:59:48",
+        "_id": "69292c4473a34"
+    },
+    {
+        "p_name": "qwert",
+        "p_price": 200,
+        "p_description": "retyu",
+        "category": "women",
+        "p_image": "69292cc391813_SWAS_3647=======.jpg",
+        "created_at": "2025-11-28 05:01:55",
+        "updated_at": "2025-11-28 05:01:55",
+        "_id": "69292cc3944f8"
+    },
+    {
+        "p_name": "aedfg",
+        "p_price": 1000,
+        "p_description": "asdfghj",
+        "category": "kids",
+        "p_image": "69292d2b1fbff_SWAS_3653=======.jpg",
+        "created_at": "2025-11-28 05:03:39",
+        "updated_at": "2025-11-28 05:03:39",
+        "_id": "69292d2b21c63"
+    }
+]

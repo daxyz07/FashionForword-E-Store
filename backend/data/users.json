@@ -1,0 +1,29 @@
+[
+    {
+        "name": "Test User",
+        "email": "test@example.com",
+        "contactno": "1234567890",
+        "gender": "Male",
+        "password": "$2y$10$jMjCZSLHXNevmN8uWi6wjevQFDctPZ.n9gUhRi5q7sPO5xcskfv76",
+        "created_at": "2025-09-10 11:26:33",
+        "_id": "68c16069df98c"
+    },
+    {
+        "name": "1234567890",
+        "email": "1234567890@gmail.com",
+        "contactno": "1234567890",
+        "gender": "Male",
+        "password": "$2y$10$A8SEa7ihual9t0WPAdXUF.LQqumLNSN1gKc0oDXahgGsuUMcsLO8.",
+        "created_at": "2025-11-28 04:53:03",
+        "_id": "69292aaf87f34"
+    },
+    {
+        "name": "Dharmik",
+        "email": "dharmik@gmail.com",
+        "contactno": "1234567890",
+        "gender": "Male",
+        "password": "$2y$10$ZOzCLV7VyGdGMRa4ZKFLe.\/hr1lT18vdWWraHZlqFqZ\/UXUs5WiZy",
+        "created_at": "2026-03-09 06:53:05",
+        "_id": "69ae6e511e3ff"
+    }
+]
