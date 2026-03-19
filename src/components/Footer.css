@@ -1,0 +1,48 @@
+/* Footer styles - preserving original design */
+.footer-container {
+  align-content: center;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 20px;
+  background-color: black;
+  object-fit: cover;
+  padding-bottom: 30px;
+}
+
+.footer-container .footer-1, .footer-2, .footer-3, h5, h4, h2, h3, h6, p {
+  color: white;
+  font-size: 15px;
+}
+
+.footer-container .footer-1 h2, p, h5, h6 {
+  padding-left: 50px;
+  padding-top: 20px;
+}
+
+.footer-container a {
+  color: white;
+  text-decoration: none;
+}
+
+.footer-container a:hover {
+  color: #42f860;
+}
+
+.copy-right {
+  text-align: center;
+  color: #000000; 
+  font-size: 27px;
+  margin: 20px 0;
+}
+
+@media (max-width: 768px) {
+  .footer-container {
+    grid-template-columns: 1fr;
+    text-align: center;
+  }
+  
+  .footer-container .footer-1 h2, p, h5, h6 {
+    padding-left: 0;
+  }
+}
+

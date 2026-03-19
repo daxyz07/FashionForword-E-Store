@@ -1,0 +1,82 @@
+/* About Us page styles */
+.about-page {
+  padding-top: 100px;
+  min-height: 100vh;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+.about-page h1 {
+  text-align: center;
+  font-size: 3rem;
+  color: #444;
+  margin-bottom: 3rem;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.colored-word {
+  color: #42f860;
+}
+
+.about-content {
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  gap: 50px;
+  align-items: start;
+}
+
+.about-text h2 {
+  color: #333;
+  margin-bottom: 1rem;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.about-text h3 {
+  color: #42f860;
+  margin: 2rem 0 1rem 0;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.about-text p {
+  color: #666;
+  line-height: 1.6;
+  margin-bottom: 1rem;
+  font-size: 1.1rem;
+}
+
+.about-text ul {
+  color: #666;
+  line-height: 1.6;
+  margin-left: 20px;
+}
+
+.about-text li {
+  margin-bottom: 0.5rem;
+}
+
+.about-image {
+  text-align: center;
+}
+
+.about-image img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+@media (max-width: 768px) {
+  .about-content {
+    grid-template-columns: 1fr;
+    gap: 30px;
+  }
+  
+  .about-page h1 {
+    font-size: 2rem;
+  }
+}
+

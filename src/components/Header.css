@@ -1,0 +1,50 @@
+/* Header specific styles - preserving original design */
+.logo img {
+  margin: auto;
+  margin-top: 1.5%;
+  margin-left: 14px;
+  width: 30%;
+}
+
+.nav-links {
+  display: flex;
+  list-style: none;
+  width: 150%;
+  justify-content: flex-end;
+  padding-right: 24px;
+  font-size: 18px;
+  font-weight: 15px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.nav-links li {
+  margin: 0 10px;
+}
+
+.nav-links a {
+  text-decoration: none;
+  color: black;
+  transition: color 0.3s ease;
+}
+
+.nav-links a:hover {
+  color: #42f860;
+  text-decoration: none;
+}
+
+#active {
+  color: #42f860;
+}
+
+@media (max-width: 768px) {
+  .nav-links {
+    flex-direction: column;
+    width: 100%;
+    align-items: center;
+  }
+  
+  .nav-links li {
+    margin: 5px 0;
+  }
+}
+

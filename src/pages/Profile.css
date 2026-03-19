@@ -1,0 +1,89 @@
+/* Profile page styles */
+.profile-page {
+  padding-top: 100px;
+  min-height: 100vh;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+.profile-container {
+  max-width: 600px;
+  margin: 0 auto;
+  background: white;
+  padding: 2rem;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.profile-container h1 {
+  text-align: center;
+  color: #333;
+  margin-bottom: 2rem;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+}
+
+.profile-info {
+  margin-bottom: 2rem;
+}
+
+.profile-field {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 0;
+  border-bottom: 1px solid #eee;
+}
+
+.profile-field:last-child {
+  border-bottom: none;
+}
+
+.profile-field label {
+  font-weight: bold;
+  color: #333;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.profile-field span {
+  color: #666;
+  font-size: 1.1rem;
+}
+
+.profile-actions {
+  text-align: center;
+}
+
+.btn-primary {
+  background-color: #dc3545;
+  color: white;
+  padding: 12px 24px;
+  border: none;
+  border-radius: 5px;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+}
+
+.btn-primary:hover {
+  background-color: #c82333;
+}
+
+@media (max-width: 768px) {
+  .profile-field {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.5rem;
+  }
+  
+  .profile-container h1 {
+    font-size: 2rem;
+  }
+}
+
